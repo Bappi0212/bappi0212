@@ -58,15 +58,10 @@ I'm a Flutter developer working with [@devcenter-dev](https://github.com/devcent
 
 | # | Project | Stack | What it does |
 |---|---------|-------|-------------|
-| 01 | **PreviewChat-AI** | Node.js, Docker, Flutter, Multi-LLM | Generates full Flutter apps from natural language and serves instant preview URLs |
-| 02 | **iChat** | Flutter, Node.js, Socket.io, MySQL | Real-time messaging platform with AI-powered features |
-| 03 | **Jarvis** | Flutter, Node.js, AI APIs | Personal AI assistant — voice, chat, and task automation |
-| 04 | **PermitSense** | Python, FastAPI, OCR | Intelligent document scanning and permit analysis system |
-| 05 | **Gym NFC** | Flutter, Python, NFC | Gym membership management with NFC card read/write |
-| 06 | **Hairfall Prediction** | Python, TensorFlow, VGG19 | ML-powered hair disease classification from images |
-| 07 | **Crickletter** | Next.js, React | Cricket newsletter marketing site with SSR |
-| 08 | **MediaManager** | Flutter | Image processing, gallery optimization, and media handling |
-| 09 | **KlokBox AI** | Flutter, AI | AI-powered conversational application |
+| 01 | **iChat** | Flutter, Node.js, Socket.io, MySQL | Real-time messaging platform with AI-powered features |
+| 02 | **Jarvis** | Flutter, Node.js, AI APIs | Personal AI assistant — voice, chat, and task automation |
+| 03 | **Gym NFC** | Flutter, Python, NFC | Gym membership management with NFC card read/write |
+
 
 **Agency projects @ [DevCenter.dev](https://github.com/devcenter-dev)** *(private repos)*
 
