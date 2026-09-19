@@ -83,26 +83,6 @@ I'm a Mobile & Web Developer with strong skills in Flutter, API integration, and
 
 ## GitHub overview
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Bappi0212&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
-</div>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bappi0212&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bappi0212&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
-</div>
-
-> Above stats auto-update and include private contributions.
-
 | | |
 |---|---|
 | **Total Contributions** | 12,500+ |
