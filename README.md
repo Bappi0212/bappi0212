@@ -4,11 +4,13 @@
 
 **Mobile App & Web Developer**
 
-Dhaka, Bangladesh
+Saidpur, Rangpur, Bangladesh
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bappikhan172@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=flat&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monowar-hossain-8b7214428)
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=flat&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/monowar08)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/bappi0212)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/bappi0212/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://monowar-hossain-bappi.web.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Bappi0212)
 ![Visitors](https://komarev.com/ghpvc/?username=Bappi0212&color=blue&style=flat)
@@ -117,6 +119,6 @@ I'm a Mobile & Web Developer with strong skills in Flutter, API integration, and
 
 **Got a project in mind? Let's talk.**
 
-[![Freelancer](https://img.shields.io/badge/HIRE_ME_ON_FREELANCER-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/your-link)
+[![Freelancer](https://img.shields.io/badge/HIRE_ME_ON_FREELANCER-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/monowar08)
 
 </div>
