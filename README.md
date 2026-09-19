@@ -2,14 +2,14 @@
 
 # Monowar Hossain Bappi
 
-**Flutter Developer (Mobile & Web)**
+**Mobile App & Web Developer**
 
-Parbatipur, Dinajpur, Bangladesh
+Dhaka, Bangladesh
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bappikhan172@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=flat&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/your-link)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/your-link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio-link.web.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://monowar-hossain-bappi.web.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Bappi0212)
 ![Visitors](https://komarev.com/ghpvc/?username=Bappi0212&color=blue&style=flat)
 
@@ -17,18 +17,19 @@ Parbatipur, Dinajpur, Bangladesh
 
 ---
 
-I'm a Flutter developer working with [@devcenter-dev](https://github.com/devcenter-dev), building mobile apps, integrating backend services, and shipping production-ready applications for both iOS and Android. I've been working with Flutter since its early days. GetX MVC is my go-to architecture. I focus on clean code, pixel-perfect UI, and real-time features like chat and push notifications.
+I'm a Mobile & Web Developer with strong skills in Flutter, API integration, and Firebase implementation. I specialize in building smooth, high-performance mobile experiences and enterprise-level web applications. GetX MVC is my go-to architecture for Flutter. I focus on clean code, pixel-perfect UI (Figma to Code), and real-time features.
 
 <details>
 <summary><b>A bit more about me</b></summary>
 <br>
 
-- Building production Flutter apps with GetX architecture (MVC pattern)
-- Experienced with Firebase (FCM, Hosting, Auth), REST APIs, and Socket.IO real-time systems
-- Comfortable working with backend teams on Node.js/Express APIs
-- Focused on responsive design with flutter_screenutil and clean state management
-- Currently contributing to multiple projects at DevCenter agency
-- Love exploring new technologies and building things that solve real problems
+- 📱 Building production Flutter apps with GetX architecture (MVC pattern)
+- 🌐 Expanding into web development with React, Next.js, and Vite
+- 🔧 Experienced with Firebase (FCM, Hosting, Auth), REST APIs, and Socket.IO real-time systems
+- 🤝 Comfortable working with backend teams on Node.js/Express, Prisma, & MySQL APIs
+- 🎨 Focused on responsive design with flutter_screenutil and Figma UI extraction
+- 🏢 Contributing to multiple agency projects at DevCenter and scaling personal projects
+- 🚀 Always exploring new technologies and building things that solve real problems
 
 </details>
 
@@ -36,43 +37,45 @@ I'm a Flutter developer working with [@devcenter-dev](https://github.com/devcent
 
 ## Tech stack
 
-| Languages | Frontend & Mobile | Databases | DevOps & Tools |
-|-----------|-------------------|-----------|----------------|
-| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| Languages | Frontend & Mobile | Backend & Databases | DevOps & Tools |
+|-----------|-------------------|---------------------|----------------|
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 
 ---
 
 ## What I work on
 
-**Mobile apps** — Flutter is my primary tool. I build multi-role apps with complex navigation, real-time chat (Socket.IO), push notifications (FCM), NFC integrations, and role-based dashboards. GetX MVC is my go-to architecture.
+**Mobile Apps** — Flutter is my primary tool. I build multi-role apps with complex navigation, real-time chat (Socket.IO), push notifications (FCM & APNs), NFC integrations, and role-based dashboards. 
 
-**UI/UX Implementation** — Pixel-perfect responsive layouts using flutter_screenutil. I work with custom design systems, themed components, and adaptive widgets that look great on all screen sizes.
+**Web Development** — Building interactive web platforms and admin dashboards using React, Next.js, TypeScript, and Vite.
 
-**API Integration** — REST APIs with token-based auth, pagination, real-time updates, and multi-part uploads. I work closely with backend teams to integrate and debug complex flows.
+**UI/UX Implementation** — Pixel-perfect layouts directly from Figma. I work with custom design systems, themed components, and adaptive widgets for both mobile and web.
+
+**API & Backend Integration** — REST APIs with token-based auth, pagination, real-time updates, and multi-part uploads. 
 
 ---
 
 ## Some things I've built
 
-**Personal projects**
+**Recent & Personal Projects**
 
 | # | Project | Stack | What it does |
 |---|---------|-------|-------------|
-| 01 | **iChat** | Flutter, Node.js, Socket.io, MySQL | Real-time messaging platform with AI-powered features |
-| 02 | **Jarvis** | Flutter, Node.js, AI APIs | Personal AI assistant — voice, chat, and task automation |
-| 03 | **Gym NFC** | Flutter, Python, NFC | Gym membership management with NFC card read/write |
+| 01 | **Tinderio** | Flutter, GetX, Dart | Feature-rich dating platform offering profile verification, advanced filtering, and real-time communication. |
+| 02 | **Healthcare Booking System** | JavaScript, Web | Enterprise-scale healthcare scheduling and booking platform. |
+| 03 | **Drevo E-commerce** | TypeScript, React | Full-featured e-commerce platform and storefront. |
+| 04 | **iChat** | Flutter, Node.js, Socket.io | Real-time messaging platform with AI-powered features. |
+| 05 | **BFC Restaurant & Cafe** | TypeScript | Interactive restaurant menu layout and web presence. |
 
 
 **Agency projects @ [DevCenter.dev](https://github.com/devcenter-dev)** *(private repos)*
 
 | # | Project | Stack | What it does |
 |---|---------|-------|-------------|
-| 01 | **Outspot** | Flutter, Node.js | Full-stack platform — mobile frontend + backend service (largest project, 85MB+ codebase) |
+| 01 | **Outspot** | Flutter, Node.js | Full-stack platform — mobile frontend + backend service (85MB+ codebase) |
 | 02 | **Lotus** | Flutter, Node.js | Client application with dedicated backend service |
 | 03 | **Armorix** | Flutter, Node.js | Mobile app with backend API integration |
-| 04 | **Racqit** | Flutter | Sports application with admin panel |
-| 05 | **Vulcain** | Flutter | Mobile client application |
-| 06 | **Ashly Admin** | Flutter | Admin panel for content and user management |
+| 04 | **Ashly Admin** | Flutter Web, Firebase | Web admin panel for content and user management (Hosted via Firebase) |
 
 ---
 
@@ -100,7 +103,7 @@ I'm a Flutter developer working with [@devcenter-dev](https://github.com/devcent
 
 | | |
 |---|---|
-| **Total Contributions** | 1,500+ |
+| **Total Contributions** | 12,500+ |
 | **Mobile Apps Shipped** | 5+ production Flutter apps |
 | **Client Projects** | 5+ active through DevCenter agency |
 | **Active Since** | 2023 |
