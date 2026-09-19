@@ -19,7 +19,7 @@ Saidpur, Rangpur, Bangladesh
 
 ---
 
-I'm a Mobile & Web Developer with strong skills in Flutter, API integration, and Firebase implementation. I specialize in building smooth, high-performance mobile experiences and enterprise-level web applications. GetX MVC is my go-to architecture for Flutter. I focus on clean code, pixel-perfect UI (Figma to Code), and real-time features.
+I'm a Mobile & Web Developer with strong skills in Flutter, API integration, and robust backend solutions. I specialize in building smooth, high-performance mobile experiences and enterprise-level web applications. GetX MVC is my go-to architecture for Flutter. I focus on clean code, pixel-perfect UI (Figma to Code), and scalable architectures.
 
 <details>
 <summary><b>A bit more about me</b></summary>
@@ -28,7 +28,7 @@ I'm a Mobile & Web Developer with strong skills in Flutter, API integration, and
 - 📱 Building production Flutter apps with GetX architecture (MVC pattern)
 - 🌐 Expanding into web development with React, Next.js, and Vite
 - 🔧 Experienced with Firebase (FCM, Hosting, Auth), REST APIs, and Socket.IO real-time systems
-- 🤝 Comfortable working with backend teams on Node.js/Express, Prisma, & MySQL APIs
+- 🤝 Building and integrating robust backend APIs using Node.js/Express, PHP/Laravel, Prisma & MySQL
 - 🎨 Focused on responsive design with flutter_screenutil and Figma UI extraction
 - 🏢 Contributing to multiple agency projects at DevCenter and scaling personal projects
 - 🚀 Always exploring new technologies and building things that solve real problems
@@ -41,7 +41,7 @@ I'm a Mobile & Web Developer with strong skills in Flutter, API integration, and
 
 | Languages | Frontend & Mobile | Backend & Databases | DevOps & Tools |
 |-----------|-------------------|---------------------|----------------|
-| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 
 ---
 
@@ -51,9 +51,9 @@ I'm a Mobile & Web Developer with strong skills in Flutter, API integration, and
 
 **Web Development** — Building interactive web platforms and admin dashboards using React, Next.js, TypeScript, and Vite.
 
-**UI/UX Implementation** — Pixel-perfect layouts directly from Figma. I work with custom design systems, themed components, and adaptive widgets for both mobile and web.
+**API & Backend Integration** — Designing and consuming REST APIs with token-based auth, pagination, real-time updates, and multi-part uploads using Node.js and Laravel. 
 
-**API & Backend Integration** — REST APIs with token-based auth, pagination, real-time updates, and multi-part uploads. 
+**UI/UX Implementation** — Pixel-perfect layouts directly from Figma. I work with custom design systems, themed components, and adaptive widgets for both mobile and web.
 
 ---
 
